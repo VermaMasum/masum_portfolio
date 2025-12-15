@@ -187,7 +187,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg text-white mb-8">
-            Full-Stack Developer | AI-ML
+            Full-Stack Developer | AI-ML Enthusiastic
           </p>
 
           {/* RESUME ACTIONS */}
