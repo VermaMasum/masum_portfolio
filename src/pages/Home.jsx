@@ -114,7 +114,9 @@ export default function Home() {
             Masum Verma
           </h1>
 
-          <p className="text-gray-300 mb-8">Full-Stack Developer | AI-ML</p>
+          <p className="text-gray-300 mb-8">
+            Full-Stack Developer | AI-ML Enthusiastic
+          </p>
 
           <div className="flex flex-col gap-3">
             <a
